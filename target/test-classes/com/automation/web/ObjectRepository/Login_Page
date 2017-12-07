@@ -1,0 +1,2 @@
+id_login="userid"
+xpath=".//table/td/[@id='something']"
